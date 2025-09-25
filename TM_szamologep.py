@@ -1,0 +1,13 @@
+print("Számológép")
+print()
+szam1 = int(input("Első szám: "))
+szam2 = int(input("Második szám: "))
+
+print("----------------------------")
+print(f"{szam1} + {szam2} = {szam1+szam2}")
+print(f"{szam1} - {szam2} = {szam1-szam2}")
+print(f"{szam1} * {szam2} = {szam1*szam2}")
+print(f"{szam1} / {szam2} = {szam1/szam2}")
+print(f"{szam1} // {szam2} = {szam1//szam2}")
+print(f"{szam1} % {szam2} = {szam1%szam2}")
+print(f"{szam1} ** {szam2} = {szam1**szam2}")
