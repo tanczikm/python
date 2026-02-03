@@ -1,3 +1,5 @@
+# Írj eljárást "nagyobbTripla" néven, amely a felhasználótól bekér két számot, majd visszaadja a nagyobb háromszorosát.
+
 def eredmeny(szam1, szam2):
     if szam1 > szam2:
         valasz = szam1*3

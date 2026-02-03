@@ -1,3 +1,5 @@
+# Írj eljárást "visszaszamol" néven, amely bekér egy számot a felhasználótól és  a megadott számtól visszaszámol 0-ig!
+
 def visszaszamol(szam):
     print("Visszaszámlálás indul...")
     if szam < 0:

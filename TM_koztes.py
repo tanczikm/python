@@ -1,3 +1,5 @@
+# Írj eljárást "kiir" néven, amely bekér két számot a felhasználótól, és kiírja a köztük lévő számokat!
+
 def kiir(szam1, szam2):
     print("-----------------------------")
     print(f"A {szam1} és {szam2} közötti számok:")
