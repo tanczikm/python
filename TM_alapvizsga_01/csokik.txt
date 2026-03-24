@@ -1,0 +1,10 @@
+ét;1;kimérős
+ét;100;papír
+ét;200;papír
+ét;200;doboz
+tej;1;kimérős
+tej;100;papír
+tej;200;doboz
+fehér;100;papír
+fehér;150;papír
+fehér;100;doboz
